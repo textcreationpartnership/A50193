@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>David serving his generation, or, A sermon shewing what is to be done in order to our so serving our generation as that when we dy, we shall enter into a blessed rest wherein some account is given concerning many eminent ministers of Christ at London as well as in N.E. lately gone to their rest : occasioned by the death of the Reverend Mr. John Baily, who deceased at Boston in New-England, December 12th, 1697 / by Increase Mather ...</title>
+            <author>Mather, Increase, 1639-1723.</author>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50193</idno><idno type="EEBO-CITATION">12990062</idno>
+  <idno type="VID">96315</idno>
+  <idno type="EEBO-PROQUEST">2248529451</idno>
+  
+            <idno type="STC">Wing M1195</idno>
+            <idno type="STC">ESTC W19668</idno>
+            <idno type="OCLC">12990062</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96315)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 390:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>David serving his generation, or, A sermon shewing what is to be done in order to our so serving our generation as that when we dy, we shall enter into a blessed rest wherein some account is given concerning many eminent ministers of Christ at London as well as in N.E. lately gone to their rest : occasioned by the death of the Reverend Mr. John Baily, who deceased at Boston in New-England, December 12th, 1697 / by Increase Mather ...</title>
+                  <author>Mather, Increase, 1639-1723.</author>
+               </titleStmt>
+               <extent>39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Green &amp; J. Allen,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bailey, John, 1644-1697.</term>
+               <term type="uniform_title">Bible. --  N.T. --  Acts XIII, 36 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, American --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96315:1"/>
+            <pb facs="tcp:96315:1"/>
+            <p>David Serving His GENERATION. Or, A SERMON Shewing What is to be done in order to our so Serving our <hi>Generation,</hi> as that when we Dy, we shall Enter into a Blessed <hi>REST.</hi>
+            </p>
+            <p>(Wherein Some account is given concerning many Eminent Ministers of Christ at <hi>London</hi> as well as in <hi>N. E.</hi> lately gone to their <hi>Rest.</hi> Occasioned by the Death, of the Reverend Mr. JOHN BAILY, Who Deceased at <hi>Boston</hi> in <hi>New-England December 12th.</hi> 1697.</p>
+            <p>By <hi>Increase Mather, <hi>President of</hi>
+               </hi> Harvard Colledge.</p>
+            <bibl>Numb. 20. 29.</bibl>
+            <q>When all the Congregation saw that Aaron was dead, they mourned for Aaron thirty dayes, even all the house of Israel.</q>
+            <p>
+               <hi>Boston,</hi> Printed by <hi>B. Green,</hi> &amp; <hi>J. Allen.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:96315:2"/>
+            <pb facs="tcp:96315:2"/>
+            <head>David Serving his Generation.</head>
+            <epigraph>
+               <bibl>ACTS 13. 36.</bibl>
+               <q>For David, after he had served his own Generation by the will of God, fell on sleep, and was laid unto his Fathers, and saw corruption.</q>
+            </epigraph>
+            <p>THESE words are part of a <hi>Sermon</hi> which was Preached by <hi>Paul</hi> at <hi>Antioch,</hi> wherein he demonstrates the Resurrection of the Lord Je<g ref="char:EOLhyphen"/>sus Christ, by what is written in the <hi>16th.</hi> Psalm, where it is said, <hi>thou shalt <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> suffer thine Holy One to see Corruption</hi> That must needs be meant either of <hi>David</hi> himself or of the <hi>Messiah:</hi> But it cannot be so affirmed of <hi>David</hi> himself, for he saw Corruption. <hi>Davids</hi> Body had been turned to Dust in the Grave for some Ages before that Time; therefore that passage in the Psalm must be meant of Christ, whose Holy Body did not lie long enough in the Grave to see Corruption. This is the Apo<g ref="char:EOLhyphen"/>stles
+<pb n="4" facs="tcp:96315:3"/> scope and design in the words before us, which are a Compendious History of the Life and Death of <hi>David.</hi> 1. We have his Life I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was a Life of Service to his own Generation, and that by the Will of God. The Greek word <hi>HUPERETESAS,</hi> here Translated <hi>he had Served,</hi> is a <hi>Metaphor</hi> taken from <hi>Rowers,</hi> who serve the Pi<g ref="char:EOLhyphen"/>lot in the safe passage of the Vessel. This World is a Sea, the Church is like a Ship tossed on the Sea, God is the Pilot, by whose Skill and Provi<g ref="char:EOLhyphen"/>dence that Ship is Steered: He is pleased to make use of men as <hi>Under Rowers</hi> to Serve his Providence. Whereas <hi>David</hi> is here said to Serve <hi>his own Generation;</hi> That Expression may imply two things. (1.) That he Served the People who Lived in the same Age in which he Lived; for in that sense is the word frequently used in the Scripture. No man can do Service for a Generation of men who were gone out of the World before he came into it. Nor can a<g ref="char:EOLhyphen"/>ny man do Service for those that shall come in<g ref="char:EOLhyphen"/>to the World, after he is gone out of it, except<g ref="char:EOLhyphen"/>ing what he did whilst himself was here. (2.) A Generation is sometimes taken for <hi>the Age of one man,</hi> as well as for the men of one Age. Thus when 'tis said, <hi>David</hi> Served his own Generation, this is intended, <hi>sc.</hi> that as long as he Lived in the World, he continued to Serve those that were his Contemporaries. He Lived to be Seventy years old, and so long did he con<g ref="char:EOLhyphen"/>tinue
+<pb n="5" facs="tcp:96315:3"/> a Servant of his Generation. More<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, when it is affirmed, that He Served them <hi>by the Will of God,</hi> that may import: (1.) That he fulfilled the Decree of God in that his Service. He did all the Service which God from E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erni<g ref="char:EOLhyphen"/>ty had willed that <hi>David</hi> should do. As no Servant of the Lord can Dy before the appoint<g ref="char:EOLhyphen"/>ed time, so neither shall he Dy until he has finish<g ref="char:EOLhyphen"/>ed all that work which God has asore determi<g ref="char:EOLhyphen"/>ned that that man shall do. Every Servant of God is Immortal, until his work is done. (2.) The Expression imports, that the Precep<g ref="char:EOLhyphen"/>tive Will of God was that according to which <hi>David</hi> acted in his Serving his own Generation. As he used to Pray that he might know, and that he might do the Will of God. We hear him praying, <hi>Give me Understanding,</hi> shew me the way wherein I should go, Lord, <hi>Teach me to do thy Will,</hi> so he did Practise according to his own Prayers. Thus did <hi>David</hi> Live.</p>
+            <p>2. We have a description of the Death of this Faithful Servant of God, and of His People. (1.) <hi>He fell Asl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep.</hi> That Expressi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and De<g ref="char:EOLhyphen"/>scription of Death when applied to Holy men, intimates an happy Death: In this World (as 'tis said of <hi>Judah</hi>) they <hi>find no rest;</hi> but Death puts an end to all their hard Service and Suffer<g ref="char:EOLhyphen"/>ings. (2.) <hi>He was Laid unto his Fathers.</hi> This is true both in respect of his Body which was Laid in the Grave, as his Fore fathers who
+<pb n="6" facs="tcp:96315:4"/> were Dead had been. And in respect of his Soul, which which was carried to that Heaven, where his good Father <hi>Jesse</hi> (whom the Jews are wont to call <hi>Jessai the Righteous</hi>) and his Fore fathers, <hi>Abraham, Isaac</hi> and <hi>Jacob</hi> were gone before. Often in the Scripture when men dy, they are said to be <hi>Gathered unto their People;</hi> which Expression implies the Immorta. lity of the Soul. At the Hour of Death men pass out of this World into the World of Souls. (3.) <hi>David saw Corruption;</hi> which is to be un<g ref="char:EOLhyphen"/>derstood not of his Spirit, but of his Body on<g ref="char:EOLhyphen"/>ly. That Corruption is in order to a Resur<g ref="char:EOLhyphen"/>rection unto a Glorious Incorruption. As Grain, it may chance of Wheat or some other Grain, is sown under the Earth, and then it corrupts, but after that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iseth again with a great addition of beauty; so it is as to the Dead Bo<g ref="char:EOLhyphen"/>dies of Saints, they are sown in Corruption, but raised in Incorruption. This may serve for the opening of the words.</p>
+            <p>The Doctrine from them is,</p>
+            <q>That the Grave will be a Blessed Bed of Ress to that man who shall Serve his own Generation ac<g ref="char:EOLhyphen"/>cording to the Will of God.</q>
+            <p>In order to the Explication and Confirmati<g ref="char:EOLhyphen"/>on of the Doctrine mentioned, I shall only Answer this practical Case of Conscience. <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>
+                  <pb n="7" facs="tcp:96315:4"/>What is to be done in order to our so Serving our Generation, as that when we Dy, we may go into a Blessed Rest.</hi>
+            </p>
+            <p>For Answer.</p>
+            <p n="1">1. <hi>This is to be laid in the Foundation, we must be Principled and Spirited aright, or we shall not Serve the Generation wherein we Live so as to find Acceptance with God.</hi> They that have not a principle of Grace in their Souls, whose <hi>bearts</hi> are not <hi>Established with Grace,</hi> either will not do that Service which the Lord requi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of them, or if they do, they will not so perform it as to please him. All acceptable Obedience springs fromtwo principles.</p>
+            <p n="1">1. <hi>From a principle of Faith in Christ.</hi> If the person is under the Curse and Wrath of God, the Service done by him is not pleasing. No man is accepted with God, but the Believer on Christ. It was by Faith that <hi>Abel</hi> offered. an Acceptable Sacrifice, and <hi>without Faith it is i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> possible to please God.</hi> Heb. 11. 4, 6.</p>
+            <p n="2">2. All acceptable obedience proceeds from <hi>a Principle of Sincere Love to God.</hi> He shews mercy to thousands of them that love him and keep his Commandments. <hi>Exod.</hi> 20. 5. That keeping of the Commandments which proceed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from a slavish fear, and not from love, is not pleasing. A small matter that proceeds from hearty love, will be accepted History t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls us of a poor man, that when he had nothing
+<pb n="8" facs="tcp:96315:5"/> better to give, presented to his King a Cup of cold Water, which because it was from hearty love was accepted and rewarded. To be sure the King of Heaven will reward small Services (the best of ours are such) which he sees flow from a principle of love to his Name. Heb. 6. 10. <hi>God is not unrighteous to forget your work and labour of love which you have shewed to his Name.</hi> We see this in that instance of the poor widow, whose two Mites being cast into the Lords Treasury were highly acceptable, because an evidence of great love to his Name. Whenas the most splendi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Services not proceeding from these principles are of no account. King <hi>Amaziah</hi> did notable things in his Generation, which the Church of God in that age was benefited by. He destroyed no less than twenty thousand of their Enemies: but God did not approve of him, because his heart was not rightly principled in what he did. It is noted of him that <hi>he did that which was right in the sight of the Lord, but not with a perfect heart.</hi> 2 Chron. 25. 2. He wanted faith in Christ, &amp; a sincere love to God in what he did. There have been amongst the Gentiles famous <hi>Heroes,</hi> who have done mighty things for their Country in the age wherein they lived, but since they had not faith in Christ, all those Services were (as <hi>Austin</hi> truly speaks) no better than <hi>Splendida peccata,</hi> glistering sins.</p>
+            <p>Moreover, Men will be spirited and inclined
+<pb n="9" facs="tcp:96315:5"/> according as they are p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>incipled. The man that has faith which worketh by love in his heart, can not be of a m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ish Spirit. It is private Interest and Selfishness which makes men un<g ref="char:EOLhyphen"/>serviceable to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World in their Generation. Whenas it is imp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssible that the same Person should be a t<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Believer on Christ, and yet a meer s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Faith and Love will make a Christian deny <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imsel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that so he may pro<g ref="char:EOLhyphen"/>mote the In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erest o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christ, and the good of his People. This we see in <hi>Timothy</hi> of whom the Apostle writing to the <hi>Philippians,</hi> giveth this Character, <hi>For I have no man like minded, who will naturally care for your stat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: for all seek their own, not the things which are Jesus Christs.</hi> Phil. 2. 20, 21. He that would do Service for his Ge<g ref="char:EOLhyphen"/>neration must be of a publick Spi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it. He must have a large Soul that shall design and endeavour not so much his own particular prosit, as the good of many. A man can't Serve his Gene<g ref="char:EOLhyphen"/>ration without Serving many: for there is no Generation wherein there are not many whose welfare is to be endeavoured. For this we have a great Example in <hi>Mordecai,</hi> who <hi>was accepted of the Multitude of his Brethren, seeking the w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alth of his People.</hi> Esth. 13 3. And no less an s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of a publick Spirit we see in <hi>Paul,</hi> who did not only Exhort Christians, <hi>not to seek their own.</hi>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at is to say, not that only, but <hi>every man anothers wealth,</hi> but did himself practise accordingly
+<pb n="10" facs="tcp:96315:6"/> I (sayes he) <hi>Please all men in all things,</hi> (he meaneth so far as in duty he was bound to) <hi>not seeking my own profit, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut the profit of many that they may be Saved.</hi> 1 Cor. 10. 24, 33. He that will Serve his Generation must be willing to spend and be spent to promote the welfare of others It is reported of one of the <hi>German</hi> Princer, that he took for his device a Candle burning, with this <hi>Motto</hi> under it, <hi>Alijs Serviens, meipsum Consumo,</hi> in Serving others, I consume my self. The like unto which was that of Doctor <hi>Sibs,</hi> who had for his device, a light burning with this <hi>Mott<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Praelucendo pereo;</hi> in giving light to others, I wast away. The man that is principled, and well stored with Faith and Love, will certainly be of a publick Spi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, and so Serve his Gene<g ref="char:EOLhyphen"/>ration.</p>
+            <p n="2">2. <hi>In order to Serving our Generation, it is necessa<g ref="char:EOLhyphen"/>ry that we should make the will of God as revealed in the Scriptures our Rule.</hi> The written word of God is the Rule according to which we must believe. It was well replyed by our famous English Martyrologist, when some urged him to Subscribe certain <hi>Ecclesiastical Canons,</hi> he pro<g ref="char:EOLhyphen"/>duced a Greek Testament, saying, <hi>I'le Subscribe to all this,</hi> with all my heart, but if your <hi>Canons</hi> are not according to this Book of God, I dare not Subsc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibe them. And this was but accor<g ref="char:EOLhyphen"/>ding to <hi>Pauls</hi> profession, Act. 24. 14. <hi>Believing all things that are written in th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Law and the Pro<g ref="char:EOLhyphen"/>phets.</hi>
+               <pb n="11" facs="tcp:96315:6"/> The will of God as revealed in the Scrip<g ref="char:EOLhyphen"/>ture, is a Rule of Obedience as well as of Faith. It is a perfect directory, shewing us how we must Serve God, and how we must Serve the Generation wherein we live: Nor will any man Serve his Generation a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, if he does not make that his Rule. This was the Rule that <hi>David</hi> acted by, as the Apostle in the words be<g ref="char:EOLhyphen"/>fore us does Testify, <hi>He Served his Generation by the will of God.</hi> No man is to make his own will his Rule. Kings themselves may not do it. <hi>David</hi> was a King: nevertheless, the Rule by which he Served his Generation, was not his own will, but the will of God. The Kings of Israel, where with their own hands to Copy out the Divine Law, that so they might from thence take direction how they should Govern. It is reported to the everlasting honour of that Christian King <hi>Alphonsus,</hi> that he read over the whole Bible with Comentaries fourteen times, that so he might be the better able to Serve his Generation, and that too as a King. Nor is the will of other men, or of the Generation wherein we Live, the Rule according to which we must Serve them. <hi>Gal. 1. 10. Do I seek to please men▪ if I pleased men, I sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld not be a Ser<g ref="char:EOLhyphen"/>vant of Christ;</hi> we may do great Service for the present Generation in a way of Active O<g ref="char:EOLhyphen"/>bedience. By activity in a <hi>good cause,</hi> but this cannot be without taking direction from the
+<pb n="12" facs="tcp:96315:7"/> Word of God. So the Psalmist, Psal 119. 24. <hi>Thy Testimonies are my Counsellors.</hi> A man may likewise do singular Service for the Generation wherein he liveth, by <hi>Suffering in a good cause.</hi> Some will thereby be confirmed in the Faith. That Consideration was one thing which made the Holy Apostle willing to Dy a Martyr. Phil. 2. 17. <hi>If I be offered upon the Sacrifice and Service of your Faith, I joy and rejoyce with you all:</hi> since they would have benefit by his Sufferings, he was willing in that way to Serve them: or, it may be others will be Converted thereby. The Martyrs were instruments of Converting many in the Generation in which they lived &amp; dyed, by their Sufferings. The Papists said concern<g ref="char:EOLhyphen"/>ing one of the Martyrs in <hi>Scotland,</hi> that was burnt to Death for his Religion, that the smoke of that fire infected all that it was blown upon, and made them turn Protestants. But in passive as well as active Obedience we must have respect to the will of God. Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>istians must be careful that they do not suffer as evil doers: Nor ought they to bring Sufferings on themselves further than as God shall call them thereunto: A regard must be had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the will of God in all. Where<g ref="char:EOLhyphen"/>fore the Apostle sayes, <hi>Let them that suffer accor<g ref="char:EOLhyphen"/>ding to the will of God commit the keeping of their Souls to him, in well doing, as unto a faithful Cr<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>r.</hi> 1 Pet. 4. 19.</p>
+            <p n="3">
+               <pb n="13" facs="tcp:96315:7"/>3. <hi>In order to Serving our own Generation, so as to be able to give a Comfortable account at Death, it is necessary that we should improve the Talents which God betrusteth us with, for the good of others.</hi> There is great variety as to the Talents which the Lord of all seeth meet to commit unto men. There are some whom he blesseth with Estates above others: They are in that respect more able to promote the publick good; and the Lord expects it from them. Men are apt to think that their Estates are given to them for themselves, or for their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn Relations only: but they ought to do good in their Generation therewith, devoting some part of their Estates unto Publick, Pious, and Charitable uses. 1 Tim. 6. 17, 18. <hi>Charge them that are Rich in this world, that they do good, that they be rich in good works, ready to distribute, willing to Communicate.</hi> A rich man if he has an heart may do a world of good with his Estate, which will be Comfortable at Death, and augment his glory after Death. There are some that God has blessed them with Excellent parts, both natural and acquired. Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ought not to hide those Talents under ground, but to Serve the Church of God in their Gene<g ref="char:EOLhyphen"/>ration therewith. <hi>The manifestation of the Spirit is given to every man to profit withal.</hi> 1 Cor. 12. 7. The Holy Spirit does furnish some with Eminent gifts for the sake of his Church in their Genera<g ref="char:EOLhyphen"/>tion. The whole Church of God is profited by
+<pb n="14" facs="tcp:96315:8"/> one man that has Excellent gifts and parts with a Sanctified heart to improve them to the utmost for God and for his People. A man of Eminent parts and ability may possibly do great Service for a whole Generation, by speaking a few words: That accomplished Persom, Sir <hi>William Fitz James,</hi> by a speech in Parliament made way for the Reformation in <hi>England▪</hi> begun in the Reign of K. <hi>H.</hi> 8. There are some whom the Providence of God has made Rul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs in the Common Wealth: They ought to improve that Powe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which God has put into their hearts for the Publick good. For the Encouragement of Ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tue, and the Sup<g ref="char:EOLhyphen"/>pression of Vice, Rule<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s should not be a Terror to Good Works, but to the Evil. Thus did <hi>David</hi> when in Government, Serve his Genera<g ref="char:EOLhyphen"/>tion. His Eyes were on the Faithful in the Land, to Countenance them, but as for Evil Doers, he would cut them off from the City of the Lord. As wee see in the 101 Psalm; He <hi>Executed Judgment and Justice to all his people.</hi> And in so doing Served his Generation. 2 Sam. 8. 15. There are some that bear a Sacred Office, whose chief Employ ment is in mat<g ref="char:EOLhyphen"/>ters wherein the Souls of men are concerned. The Generation wherein they Live will certain<g ref="char:EOLhyphen"/>ly be either much the better, or much the worse for them. If they are corrupt, they will be Corrupters of the Generation. <hi>From the Pro<g ref="char:EOLhyphen"/>phets
+<pb n="15" facs="tcp:96315:8"/> in Jerusalem did profaness go forth into all the Land.</hi> Jer. 23. 15. But if they are Able and Faithful men, they w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be great Blessings to the Generation. All that Live in the Age and Place with them, will have cause to bless God for them: A few such are a great Blessing to a whole Land. The Prophet <hi>Elisha</hi> was so; therefore when he was Sick of the Sickness whereof he Dyed, the King himself wept over him, saying, <hi>O my Father my Father, the Chariots of Israel and the Horsemen thereof! 2 King.</hi> 13. 14. intimating that his Death would make as sore Breach upon the Land, as if the Chariots and Horsemen by whom they were defended, should be removed from them. All the Nati<g ref="char:EOLhyphen"/>on of Israel did more than once fare the better for a Prophet that was among them. Hos. 12. 13. <hi>By a Prophet the Lord brought Isra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l out of Egypt, and by a Prophet was he preserved.</hi> A Prophet! a Prophet! that is Eminent and Faithful; all Israel fares the better for him; he is an inexpressible Blessing to the Generati<g ref="char:EOLhyphen"/>on. One <hi>Justin Martyr,</hi> by writing an Apolo<g ref="char:EOLhyphen"/>gy for Christians, was a Blessing to all the Churches throughout the Roman Empire. The Ministers of the Gospel are by the Lord Jesus Christ himself resembled unto Stars, Rev. 1. 20. <hi>The Seven Stars are the Angels of the Seven Chur<g ref="char:EOLhyphen"/>ches.</hi> Stars have a great influence on the World. The Scripture speaks of the <hi>sweet influence of the
+<pb n="16" facs="tcp:96315:9"/> Pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iades,</hi> which are those that are usually called the Seven Stats. So have Faithful Ministers whom Christ has fixed in the Firmament of his Church an happy influence on the World, in their several Generations. As the Sta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are common Blessings to a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the World, so are they They are <hi>the Salt of the Earth</hi> Mat. 5. 14. should there be but one Age in which were no Faithful Ministers o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christ, the whole World would purify for want of this Spiritual Salt by which Generations a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e preserved from Corrup<g ref="char:EOLhyphen"/>tion. Ministerial Gifts are a great Talent; whoever shall improve them faithfully in Serv<g ref="char:EOLhyphen"/>ing his own Generation, will find the Grave to be a Blessed Bed of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est to him, and his Works will follow him to Heaven. <hi>Daniel</hi> did not on<g ref="char:EOLhyphen"/>ly do great Service for the People of God in the Court of <hi>Persia,</hi> but as a Prophet. And an Angel from Heaven said to him, <hi>Thou shalt Rest, &amp;c.</hi> at the End of this World, he shall have a Glorious Lot in the First Resurrection. Dan. 12. 13. Thus then do we Serve our Generation by improving the Talents which God has given to us. There are some that have many Talents committed to them As in the Parable, one had two Talents, another one, another Five. <hi>David</hi> had so. He was a Prince and a Prophet too, a man that was vastly Rich, and one of extraordinary Parts, <hi>Wise like an Angel of God.</hi> All these Talents did he use for the be<g ref="char:EOLhyphen"/>nefit▪
+<pb n="17" facs="tcp:96315:9"/> of his own Generation. There are none but they have some Talent or other whereby they may be Serviceable. Tho men in Publick Place have greater Talents than others, never<g ref="char:EOLhyphen"/>theless, they that sustain only a Private Capaci<g ref="char:EOLhyphen"/>ty, are for all that in a Capacity to Serve▪ the Generation which they are of. He that has a Family, by giving a good Education to his Chil<g ref="char:EOLhyphen"/>dren, Serveth the Common wealth which will be advantaged by those Children. A private man that has a Calling, and is diligent therein, Serveth the Publick. He that is a Sincere God<g ref="char:EOLhyphen"/>ly man, by his Prayers and by his Exemplary Conversation does good to others in his Gene<g ref="char:EOLhyphen"/>ration.</p>
+            <p n="4">4. <hi>In order to Serving our Generation, we should consider what are the special Sins of the Age where<g ref="char:EOLhyphen"/>in we Live, and Endeavour the Reformation▪ of them; and what are the more peculiar Truths and Duties of the Times, so as to fall in with them.</hi> There are some Evils which are <hi>Err<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res Seculi,</hi> the more special Errors of that Age, either Pra<g ref="char:EOLhyphen"/>ctical or Doctrinal: Sometimes one Evil breaks forth, sometimes another. As any Scandal ap<g ref="char:EOLhyphen"/>pears▪ we▪ shall do a good Service in our Gene<g ref="char:EOLhyphen"/>ration, to give a faithful Testimony against it, if it be indeed a Sin. Although there is no Age without its Errors, yet nevertheless, the Sins of the Times are not always the same. That Iniquity prevails in one Nation, which does
+<pb n="18" facs="tcp:96315:10"/> not in another; so in one Generation which does not in another. In the Dayes of <hi>Noah,</hi> the Crying Sin of the Old World was Sensuali<g ref="char:EOLhyphen"/>ty. The World was Drowned in Sensual Lusts, while the Flood came and Drowned them all. The Earth was corrupt before God; all Flesh had Corrupted his way. Only <hi>Noah</hi> was sound <hi>Righteous in that Generation. Gen.</hi> 7. 1. He Preach<g ref="char:EOLhyphen"/>ed against the Sins of the Times; the Scripture calls him a <hi>Preacher of Righteousness.</hi> 2 Pet. 2 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> He Preached that men should Turn from Sin, and Live an Holy, Righteous Life. In that way did he Serve his Generation according to the will of God. When the Children of Israel were in the Wilderness, the sin which they were chi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty guilty of was Unbelief and Murmurings, the fruit of their Unbelief: That whole Gene<g ref="char:EOLhyphen"/>ration was guilty, excepting <hi>Joshua</hi> and <hi>Caleb,</hi> who were of another Spirit; and did a good Service for that Generation, in endeavouring to Convince them of their Evils. After they were settled in the Land of <hi>Canaan:</hi> Idolatry was the Reigning Sin in divers Ages. The Holy Prophets Served their Generation in bea<g ref="char:EOLhyphen"/>ring witness against the Idolatries and Supersti<g ref="char:EOLhyphen"/>tions of the Times. After the Return from Captivity, neglect of Divine Institutions and Worldliness were the special Sins of that Gene<g ref="char:EOLhyphen"/>ration. The Prophets <hi>Haggai</hi> and <hi>Zechary,</hi> whose Ministry was blessed to the Conversion
+<pb n="19" facs="tcp:96315:10"/> of not a few in that Generation, did thereby do singular Service for God and for them. None have done greater Service for the Age wherein they Lived, then Eminent Reformers. <hi>David</hi> was such an one. Things were much out of order when he first came to the Throne; his Pre<g ref="char:EOLhyphen"/>decessor <hi>Saul</hi> was a man of little Religion. The Ark of God was not regarded in the Dayes of <hi>Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 1 Chron. 13. 3. He was a bloody ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the most Holy men, and one that put the Wic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edest in the Nation into Places of Power and Trust; and as long as it was so, there was no possibility of the Nations being Reformed; <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Da<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> no sooner had power to do it, but he Turned Ungodly men out, and put better in their places. Such did he make to be <hi>Pillars</hi> in the Civil State, and did himself Judge uprightly. Psal. 75. 2, 3. And he Settled Religion according to the mind of God. Thus did he cause a great Reformation, Serving his own Generation by the will of God. Several of the Kings of <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> were great Reformers. So <hi>Jehosaphat, Asa, Hezekiah, Josiah;</hi> and in their being such, they Served their Generations. The Reformers who lived in the last <hi>Century,</hi> were great Servants of their Generation. What Service did <hi>Luther</hi> &amp; <hi>Mal<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> do for <hi>Germany? Zuinglius</hi> for <hi>Swit<g ref="char:EOLhyphen"/>zerland, Calvin</hi> and <hi>Beza,</hi> for <hi>Geneva</hi> &amp; <hi>France? Kno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> for <hi>Scotland.</hi> And the Reformers in the Dayes of K. <hi>Edw.</hi> the <hi>6th.</hi> for <hi>England?</hi> As
+<pb n="20" facs="tcp:96315:11"/> there are the special Sins of the Times to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Testified against, and that we should endeavour the <hi>Reformation</hi> of; so there are the more pecu<g ref="char:EOLhyphen"/>liar Truths and Duties of the Times, which men that would Serve their own Generation, must witness unto. That Truth which is re<g ref="char:EOLhyphen"/>ceived in one Age, is Persecuted in another. There are <hi>Labouring Truths,</hi> which meet with the greatest opposition from Satan and from the World. There is that which is called the <hi>pre<g ref="char:EOLhyphen"/>sent Truth.</hi> 2 Pet. 1. 12▪ In the Apostles Dayes, the present Truth was, <hi>That Jesus of Nazareth is the promised Messiah, the Son of God, and the Savi<g ref="char:EOLhyphen"/>our of the World.</hi> The Holy Apostles of the Lord Jesus Christ by Preaching and Propagating <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Glorious Truth throughout the World, Ser<g ref="char:EOLhyphen"/>ved their own Generation according to the Will of God. After that Christianity had pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and triumphed over <hi>Judaism</hi> and <hi>Heatheni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> the great Truth most opposed in the World, was that which concerns the Eternal <hi>Deity</hi> of Jesus Christ the Son of God. <hi>Athanas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> did singular Service for his Generation, in standing up as a Champion for the Truth, when (as that Ancient speaks) the whole World sighed to see it self become an <hi>Arian.</hi> After this, <hi>An<g ref="char:EOLhyphen"/>tichristianism</hi> (that is <hi>Popery</hi>) sprung up, and got head, and then the Truths which concern the Offices of Christ were invaded and violated by the Man of▪ Sin. There have been many▪ Con<g ref="char:EOLhyphen"/>fessors
+<pb n="21" facs="tcp:96315:11"/> and Martyrs, whom the Lord Jesus has raised up in the last Ages of the World, who by their Preaching, Writing, and Sufferings, have born witness to the Truth relating to the Pro<g ref="char:EOLhyphen"/>phetical Office of Christ, in asserting the per<g ref="char:EOLhyphen"/>fection and fulness of the Scripture, against all Traditions and Canons devised by men; and to the Priestly Office of Christ, in maintaining Justifica<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion by the alone merit of that one Sa<g ref="char:EOLhyphen"/>crifice of the Humane Nature of Christ, but once offered; and by maintaining those Bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssed Truths, they Served their own Generations. The Truths of this Age wherein it has been the Will of God that our Lot should be cast, are those which concern the Kingly Office and Power of the Lord Jesus Christ. That He is the only Head of his Church: That no Officers, no Ordinances, no Sacraments, or Religious Ce<g ref="char:EOLhyphen"/>remonies ought to be there, besides what Christ himself has appointed. And as such as these are the Truths of the Age, so in a very special manner of the place wherein the Divine Provi<g ref="char:EOLhyphen"/>dence has cast our Lot to be. What was it that▪ our Fathers came into this Wilderness for? It was pure Conscience to the Second Command<g ref="char:EOLhyphen"/>ment that brought them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ither. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was that so they might build Sanctuaries for the Name of the Lord. It was, that so they might measure the Temple according to the Golden Rule of the Scripture. It was with respect unto Purity
+<pb n="22" facs="tcp:96315:12"/> as to all Church Administrations, that they fol<g ref="char:EOLhyphen"/>lowed the Lord into a Land which was not Sown. Wherefore notwithstanding too many of <hi>this Generation,</hi> who are lamentably Degene<g ref="char:EOLhyphen"/>rated from the Principles and Spirit of their Fa<g ref="char:EOLhyphen"/>thers and Grandfathers, will rage at it, we can<g ref="char:EOLhyphen"/>not easily do a better Service, than to withstand Innovations which would prove fatal to the Churches, and to the Interest of Christ's Holy Kingdom among them. And let not those enter into the Sanctuary, which thou, O Lord didst Command that they should not enter into thy Congregation. <hi>Lam.</hi> 1. 10. We shall do well to remember, that there are Practices which in some other places of the World, would be a step towards Reformation; that in a people so In<g ref="char:EOLhyphen"/>structed and Enlightend as we have been, would deserve the Name of great Degeneracy &amp; Apostasy.</p>
+            <p n="5">5. <hi>It will be good for us to follow the Examples of those who have Served God, and his People with the greatest Fidelity.</hi> There are Examples record<g ref="char:EOLhyphen"/>ed in the Scripture, not only for <hi>Their</hi> Commen<g ref="char:EOLhyphen"/>dation, but for <hi>Our</hi> Imitation. The Apostle therefore speaks, as in Heb. 12. 1 <hi>Seeing we are compassed about with so great a Cloud of Witnesses, let us run with Patience the race that is set before us.</hi> Doubtless the words allude to <hi>the Cloud</hi> in the Wilderness by which the Children of Israel were directed in the way to <hi>Canaan.</hi> That Cloud had a dark side, and a light side. The <hi>Egyptians</hi>
+               <pb n="23" facs="tcp:96315:12"/> looked only on the dark side of the Cloud, &amp; so perished. The <hi>Israelites</hi> looked on the bright side of the Cloud, and were Saved. But so it is here: The Servants of God in this World have a dark side; in that they must not be imitated. We see it in <hi>David:</hi> he was guilty of some very Scandalous Practices: Many <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gyptians, Repro<g ref="char:EOLhyphen"/>bate Sinners, I mean, will imitate him therein. Some of the Ancients complain, that in their dayes, there were men that would say, <hi>Si David our non ego:</hi> If David was guilty of such and such Sins, why may not I venture to do as he did; but they consider not Davids deep Repen<g ref="char:EOLhyphen"/>tance; nor did they consider his bright side; how faithful he was as to the general course of his life in the World, <hi>Not turning as<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de from any thing the Lord Commanded him all the dayes of his life, save only in the matter of Uriah the Hittite.</hi> 1 King. 15. 5. We should mind and imitate only the holy Example of them that have Served God and their Generation, with diligence and faith<g ref="char:EOLhyphen"/>fulness. Heb. 6 12. <hi>That you be not slothful, but followers of them who through Faith and Pat<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nce inherit the Promises.</hi> We should consider how the holy Prophets Served their Generations, and en<g ref="char:EOLhyphen"/>deavour to do like them. Jam. 5. 10. <hi>Take my Brethren the Prophets, who have spoken in the Name of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord, for an example▪ of suffering affliction, and of patience.</hi> So we▪ should take the Prophets for an Example of Servic<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bleness in their Ge<g ref="char:EOLhyphen"/>nerations▪
+<pb n="24" facs="tcp:96315:13"/> We should consider how the holy Apostles of the Lord Jesus Christ Served thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Generation, according to the will of God, and take Patern by them. Phil. 3. 17. <hi>Brethren</hi> (saith the Apostle) <hi>be ye followers together of me, and mark them that walk so as you have us for an Ex<g ref="char:EOLhyphen"/>ample.</hi> And besides Scripture Examples, we should consider those whom we our selves have known, that have faithfully Served their Generati<g ref="char:EOLhyphen"/>on: And in a special manner such faithful Mi<g ref="char:EOLhyphen"/>nisters of Christ as we have had the knowledge of, and most of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, if we have lived under their Ministry. Heb. 13. 7. <hi>Remember your guides;</hi> so the words should be read, and not as we have them, <hi>them that have the rule over you;</hi> for it is spoken of such as were then gone out of the World; wherefore it is added, <hi>who have spoken to you the word of God:</hi> you must not only Re<g ref="char:EOLhyphen"/>member those that <hi>Do,</hi> but those that <hi>Have</hi> spoken the word of God to you; <hi>whose Faith follow, considering the end of their Conversation.</hi> They have finished their course: they are come to the end of their Conversation in this World▪ they have done all the Service that it was the Will of God they should do in &amp; for their Genera<g ref="char:EOLhyphen"/>tion. Now their Survivers must Remember them and their Graces, so as to imitate them The best remembrance of a departed Minister, is to imi<g ref="char:EOLhyphen"/>tate his Virtues and Graces. But above all, we should consider the Example of the Lord Jesus
+<pb n="25" facs="tcp:96315:13"/> Christ. Confessors, Reformers, Ministers, Mar<g ref="char:EOLhyphen"/>tyrs, must be followed; but mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e than to any of them, we must be <hi>Looking to Jesus.</hi> Heb. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2▪ <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> No oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r man, no not the best Apostl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to be imitated in every thing▪ We may not follow <hi>Peter</hi> himself, nor <hi>Paul</hi> neither in every thing, only so far as they followed Christ: We must not follow <hi>Peter</hi> in his dissimulation, nor <hi>Paul</hi> and <hi>Barnabas</hi> in the <hi>Paroxysme</hi> which was between them. 1 Cor. 11. 1. <hi>Be ye followers of me, even as I also am of Christ.</hi> Christ is an unerring Example for us to follow in every thing that is imitable: So in particular, in this of being use<g ref="char:EOLhyphen"/>ful and Serviceable. Never man did so much good in the world, as the Man Christ Jesus did▪ It is said of him, <hi>He went about d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing good▪</hi> Act. 10. 38. And he said of himself, <hi>The Son of Man came to Minister, and to give his Life▪ a ransome for many</hi> Math. 20. 28. He is the light, the Sun of the World. The Hebrews call the Sun by that name of <hi>Shem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh,</hi> which signifyeth to <hi>Minister,</hi> because the <hi>Sun</hi> is a most beneficial, Serviceable Creature: It is the glorious Servant of the whole World: but not to be compared with Christ, <hi>the Sun of Righteousness.</hi> The whole World of mankind has received benefit by the Man Christ Jesus: As for the El<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct World, they are all Eter<g ref="char:EOLhyphen"/>nally Saved by him: As for the Reprobate World, He has caus'd them to be put under a dis<g ref="char:EOLhyphen"/>pensation of Divine Patience. Let us then do
+<pb n="26" facs="tcp:96315:14"/> good to all, but especially to the house hold of Faith: The more good we do, the more like are we to Christ. Examples are many times more prevalent than Precepts. That so we may be both directed and quickened in Serving our Generation according to the will of God, it will be profitable for us, to have our Eyes upon the most Holy Examples.</p>
+            <p n="6">6. <hi>Let us often think on those things the Conside<g ref="char:EOLhyphen"/>ration whereof has a tendency to make us Serviceable.</hi> There are Meditations, which did we often en<g ref="char:EOLhyphen"/>tertain them in our minds, they would be a means to awaken us unto constant and utmost endeavours to do all the good we can whilst we remain in this World <hi>e. g.</hi> Let us alwayes re<g ref="char:EOLhyphen"/>member what Eyes are upon us. There are glorious Eyes, which though we see not them, they are observing us in all our motions. The Eyes of holy Angels are upon us. 1 Cor▪ 4. 9. <hi>We are made a Spectacle to Angels:</hi> They observe how we acquit our selves, and if we Serve God and our Generation as we ought to do, they will come in as Witnesses of our Fidelity at the last day. And the Eyes of Jesus Christ the Son of God behold us: He said to every one of the Churches, <hi>I know thy workes:</hi> and to the Mi<g ref="char:EOLhyphen"/>nister in the Church of <hi>Thyatira,</hi> He said, <hi>I know thy Service.</hi> Rev. 2 19. And the Eyes of God are upon us. All this does the Apostle intimate to <hi>Timothy,</hi> as that which should make him the more
+<pb n="27" facs="tcp:96315:14"/> careful to attend the <hi>Service</hi> he was called unto with utmost diligence and Fidelity. 1 Tim. 5 21. <hi>I charge thee before God, and the Lord Jesus Christ, and the Elect Angel<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> It is reported of a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithful Minister of Christ, that there was written on the walls of his Study, <hi>Deu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> videt, Angeli adstant, Conscientia testabitur.</hi> God seeth thee, Angels are by thee, Thy own Conscience will be a wit<g ref="char:EOLhyphen"/>ness how thou dost behave thy self. Let us consider, that in Serving our own Generation, it is possible that we may do that which will be Service for after Generations. Isa. 58. 12. <hi>Thou shalt raise up the foundation of many Generations.</hi> A man may do that whilest he liveth, that others shall fare the better for in all Generations to the end of the World. This we see in <hi>David.</hi> Psal. 71. 18. <hi>I have shewed thy str<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngth unto this Genera<g ref="char:EOLhyphen"/>tion, and thy power to every one that is to come.</hi> He wrote the Book of <hi>Psalms;</hi> and the Church of God in all Succeeding Generations has been E<g ref="char:EOLhyphen"/>dified by that Divine Composure. We should consider that by being Serviceable, we shall glo<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y God. Joh. 15. 8. <hi>Herein is my Father glorifye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that you bear much fruit.</hi> The Christian that is very Serviceable in his Generation, bears much fruit whereby God hath much glory. And let us remember that God honoureth us, if he does condescend to make use of us, to do any Service for his Name. All the Angels in Heaven think so▪ Heb. 1. 14. <hi>Are they not all Ministring Spirits,
+<pb n="28" facs="tcp:96315:15"/> sent forth to Minister for them who shall be heirs of Salvation▪</hi> The holy Angels do <hi>by the will of God,</hi> Service for the World, but especially for the E<g ref="char:EOLhyphen"/>lect; and count it an honour that the Great God will so imploy them. So if we are any of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Serviceable to the World, but much more to the Church of Christ, it is a great honour that God puts upon us. <hi>Luthers</hi> highest ambition was that he might be a <hi>Servan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Church,</hi> and was most willing to Dy, might his Death prove beneficial to the Church of God. <hi>Modo nec mo<g ref="char:EOLhyphen"/>riente floreat Ecclesia.</hi> The man who is more Ser<g ref="char:EOLhyphen"/>viceable than his Neighbour, is on that account more honourable. Our famous <hi>Devenants</hi> Motto was, <hi>Praefuit qui profuit.</hi> He that does most good in his Generation is the best man; such shall appear most honourable another day: For Christ has said; <hi>If any man shall honour me,</hi> he that Serveth his Generation according to the will of God does so, <hi>him will my Father honour.</hi> Joh. 12. 26. Let us consider, this is the way to Live desired and to Dy lamented by the best men. Let a man be never so Serviceable, there are some ill Spirits that will wish him out of the World: but they whose esteem is to be valued, will say, <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng may that man live,</hi> who is of such use, and does so much Service in his Generation. And when he is taken away by Death, good men will lament for him exceedingly. Praying <hi>Jacob</hi> was a Serviceable man, and when he was dead,
+<pb n="29" facs="tcp:96315:15"/>
+               <hi>they mourned with a great and very sore Lamentation.</hi> Gen. 50. 20. <hi>Josiah</hi> was a Serviceable man, and when he was by an immature death snatched a<g ref="char:EOLhyphen"/>way, the Prophet <hi>Jeremy</hi> lamented for him, <hi>and in their Lamentations,</hi> that is to say, in their fune<g ref="char:EOLhyphen"/>ral Elegies, <hi>they speak of Josiah to this day▪</hi> 2 Chron▪ 35. 25. <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>even,</hi> the Pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Martyr for Christ, was a Serviceable man, and when he was dead, devout men carried him to his Grave, <hi>and made great Lamentation over him.</hi> Act. 8. 2. A Servicea<g ref="char:EOLhyphen"/>ble life useth to be attended with honour at Death. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lezekiah</hi> Served his Generation with singular Piety and Fidelity: when his work was done, he slept with his Fathers, and <hi>they buried him in the chiefest of the Sepulchres of the sons of Da<g ref="char:EOLhyphen"/>vid, and all Judah and the Inhabitants of Jeru<g ref="char:EOLhyphen"/>salem did him honour at his death.</hi> 2 Chron▪ 32▪ 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Jehojada</hi> the Priest had been an Eminent▪ Ser<g ref="char:EOLhyphen"/>vant of his Generation; and when he was Dead they Buried him in an Honourable Tomb. <hi>They Buried him in the City of David amongst the Kings, because he had done good in Israel, both towards God, and towards his House.</hi> 2 Chron. 24. 16. And let us consider, that our Service will be rewarded▪ Tho it may be not by men. We may do the most Generous and General Service for our peo<g ref="char:EOLhyphen"/>ple, &amp; be ill rewarded by an Ungrateful World. But we Serve a better Master then is the Gene<g ref="char:EOLhyphen"/>ration whom we Serve, we Serve the Lord Je<g ref="char:EOLhyphen"/>sus Christ; and he will be sure to reward what<g ref="char:EOLhyphen"/>ever
+<pb n="30" facs="tcp:96315:16"/> Service we have done according to the Will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God. Rev. 22. 12 <hi>Behold I come quickly, and my reward is with me, to give every man according as his works shall be:</hi> If he that has given a cup of cold water to a Disciple shall be rewarded, what a glorious reward shall that man have, who has been instrumental to the Conversion and Salvation of many Souls. It was once the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pression of a Dying Minister, <hi>We Serve a good Master, who will pardon our imperfections, a<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us great Wages for a little Service.</hi> I <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> more▪ over consider, That we have but a little time to Serve our Generation in▪ it is but whilst <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e continues, that we can do any▪ S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvice▪ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here Is no work in the Grave whither we are all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> going apace; we have but a sho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Age to be working in, our days are but a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hands bread<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and our age is as nothing. The thought o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it should make us do all the good we can the lit<g ref="char:EOLhyphen"/>tle time that we have to live: It concerns us to work whilst the day of li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e last, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o▪ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he night o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Death is hastening, when no man can work. It is for this reason chiefly▪ that li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be desired by a good man that is sit to dy. It would be much better for him to Dy, and go to Heaven, than to abide longer in this woful World▪ only that as long as we are alive, we may do that Service for God and his people, which after Death cannot be done by us: Therefore are we to thank God for continuing our lives▪ Excel<g ref="char:EOLunhyphen"/>lent
+<pb n="31" facs="tcp:96315:16"/> was the Speech and Spirit of our English <hi>Josiah</hi> (as he is commonly and deservedly cal<g ref="char:EOLhyphen"/>led) King <hi>Edward</hi> 6. who after he had promo<g ref="char:EOLhyphen"/>ted the Building of <hi>Christ Church</hi> Hospital, and other Works for the benefit of the City &amp; Na<g ref="char:EOLhyphen"/>tion, and with his own hand, both Signed a Charter, &amp; contributed liberally, in the presence of his Council, Lifting his Eyes to Heaven, said, <hi>O Lord God,</hi> I <hi>thank thee, in that thou hast spared my life to do this Service for thy Name before I Dy.</hi> Two days after which he dyed, having in a few years done wonderful Service for God and for his People.</p>
+            <p n="7">7. <hi>We should in a singular manner take care of those things wherein the Welfare of the Generation i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> con<g ref="char:EOLhyphen"/>cerned.</hi> The Spiritual and Eternal Wel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are of those we live amongst, we ought most of all to desire and endeavour. And therefore to do what in us lieth, that the Gospel of Salvation may be Preached to them. Alas, there are dark Corn<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s▪ in this Country, which are perishing for lack of Vision. It is said, (Cant. 8. 8.) <hi>We have a little Sister that has no Breast, what shall we do for her!</hi> So there are little places (and some consi<g ref="char:EOLhyphen"/>derable ones too) in <hi>New-England,</hi> that have no Breasts, no Ministers from whom they may re<g ref="char:EOLhyphen"/>ceive the sincere milk of the Word. What shall be done for them? There are some especially in this Town of <hi>Boston,</hi> who have Contributed li<g ref="char:EOLhyphen"/>berally unto so good a Work, by which they
+<pb n="32" facs="tcp:96315:17"/> have done a real Service for Christ, and for the Souls of men, and so it will be acknowledged a<g ref="char:EOLhyphen"/>nother day▪ In taking yet further care, as for the Gospellizing of <hi>Heathen Indians,</hi> so of <hi>Hea<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nish English,</hi> we shall do an acceptable Service in our Generation▪ Let me also say▪ That the Welfare both o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this present, and of succeeding Generations, is very much conc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rned in the E<g ref="char:EOLhyphen"/>stablishment of the <hi>Colledge,</hi> which is the Foun<g ref="char:EOLhyphen"/>tain from whence must slow those Streams which will make glad the City of God. By taking care that the Government thereof be confirmed in faithful hands, that will transmit it unto such Successors; we may be instrumen<g ref="char:EOLhyphen"/>tal to make Generations happy▪ Whoever shall be instrumental in obtaining so great a Good, will do a singular Service both for the present, and After Generations▪ What a doleful Case had <hi>New-England</hi> been in before this day, had it not been for that Blessed Nursery, almost all the Churches being supplied from thence. Nor do I know wherein I or any man can do a greater Service for this Generation, than by taking effectual care that the <hi>Tutors</hi> there be such as shall make Conscience to Establish the Young Scholars in those Holy Principles of Truth, for a Testimony whereunto their Blessed Fathers came into this Wilderness, and for the Defence and Propaga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion whereof they Erect<g ref="char:EOLhyphen"/>ed▪ a <hi>Colledge</hi> here.</p>
+            <pb n="33" facs="tcp:96315:17"/>
+            <p>But thus for Answer to the Case proposed.</p>
+            <p>All that I shall say by way of <hi>Application</hi> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only this.</p>
+            <p>
+               <hi>We see that no Eminency of Usefulness can keep men out of the Grave.</hi> A <hi>David</hi> that Serveth his Generation with the greatest industry and fidelity, must fall asleep, and see Corruption. When his work is done, he must go to Rest in the Bed of the Grave; and a sweet Rest and Repose will it be. It is said of Merciful men, &amp; Righteous men; yea, of Serviceable <hi>Josias</hi>'s, that they <hi>Enter into Peace.</hi> So they do at the Hour of Death in respect of their Souls, and <hi>they shall rest in their Beds,</hi> namely in respect of their Bodies, which are Laid in the Grave. Isa. 57. 1, 2. The Psalmist takes notice that Wise men Dy as well as the Fool, and the bruitish person. Psal. 49. 10. So the most Useful men dy, as also those who are <hi>telluris inutile pondus,</hi> Burdens on the Face of the Earth, and it may be Scandals to the Generation whereof they are. Yea, it is one of the Mysteries of Divine Providence, that eminently Useful men are ta<g ref="char:EOLhyphen"/>ken away by Death, when others that only cumber the Ground, are suffered to live. An Holy Minister, (who has lived Sermons as well as Preached them) Dyes, when others who
+<pb n="34" facs="tcp:96315:18"/> have been a reproach to the Gospel, and to all Religion, are living still.</p>
+            <p>And truly, every year does sadly confirm the Truth of what you hear. Have we not seen very Afflicting Instances of it in the year that is past. Look over into <hi>London,</hi> and we shall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee that eminently Faithful and Useful Mini<g ref="char:EOLhyphen"/>sters of God, are lately removed from thence. I forbear to speak of a Brother of mine, who had his Education in this <hi>Colledge,</hi> and after that Served his Generation in the Work of the Gospel for the space of Forty Seven Years in <hi>England, Holland</hi> and <hi>Ireland;</hi> and now he is Fallen asleep. But there is Blessed <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Col<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, James, Vincent▪</hi> all within this twelve-month Gone to <hi>the Spirits of Just men made perfect;</hi> and a little before them, <hi>Buris, Fineher, Laurence, Mayo,</hi> these were all Eminent Ministers of Christ. And I have the rather mentioned them because I had not long since a dear Acquain<g ref="char:EOLhyphen"/>tance with them all. One such stroke seldom goes alone. An ingenious Writer on occasion of many Ministers Dying in the same year, ob<g ref="char:EOLhyphen"/>serves, <hi>That when a Generation of Contemporary persons begins to Crack, it quic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly falls. The L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of their Earthly Cottage Commencing at the same date, oft at the same Term Expire.</hi> And I remem<g ref="char:EOLhyphen"/>ber that Twenty years ago, an Eminent Person in <hi>London,</hi> sent me a Catalogue of no less then Forty Two Ministers belonging to that City,
+<pb n="35" facs="tcp:96315:18"/> who Dyed in the space of about ten years. But we need not look so far off as <hi>London</hi> for a tre<g ref="char:EOLhyphen"/>mendous Verification of the Truth before us, since amongst our selves in less then half a year, besides several young Ministers, three others of principal Note, and Use, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Laid in the Grave. In the Neighbouring Colony, no lon<g ref="char:EOLhyphen"/>ger since than the last month, that Serviceable <hi>Hooker,</hi> (who was the worthy Son of a most worthy Father) is gone to his Rest. He was eminently Useful on more accoun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s than one. The Lord Jesus Christ had made him a Pillar in the Temple of his God: (And without Envy be it spoken) there is not a greater Pillar remaining in all the House of God throughout that Jurisdiction. The Churches there are all weakned by his Fall. The manner of his Death was very much like unto that of our Precious and forever famous <hi>Juel,</hi> whom Death found in the Pulpit Preach<g ref="char:EOLhyphen"/>ing to a Congregation at <hi>Laco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> in <hi>Wiltshi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e▪</hi> I observe that many Super eminent Ministers of the Gospel have dyed suddenly: So Mr <hi>Nort<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the never to be forgotten Teacher o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>this Boston</hi> And in <hi>England</hi> of l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te yea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; Mr <hi>Hollingsworth</hi> in <hi>Manchester,</hi> Mr. <hi>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls</hi> and Mr. <hi>Pledger</hi> in <hi>London:</hi> And when a few years since, I Sojourn<g ref="char:EOLhyphen"/>ed in that City, Mr. <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rst</hi> (my dear friend) and Mr. <hi>John Oakes,</hi> (faithful and eminent Mi<g ref="char:EOLhyphen"/>nisters of Christ both of them) were taken il<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Pulpit, from thence carried home and
+<pb n="36" facs="tcp:96315:19"/> dyed suddenly. It was an honour and a favour from God to them, that they were <hi>found so doing.</hi> Mr <hi>Capel,</hi> Mr. <hi>Vines,</hi> and Mr. <hi>Gouge,</hi> (that Eminent Servant of his Generation, who was the Son of famous Doctor <hi>Gouge,</hi> and in Exemplary Piety not inferiour to his Father (all these (honourable men of God) dyed in their sleep, on a Lords day night: Thus did they fall asleep after they had Served their Generation according to the will of God: What hapned to them was more like a <hi>Translation,</hi> than a <hi>Death.</hi> Such a Death as theirs was, and as our <hi>Hookers</hi> was, is sometimes a sign of Gods special Love to his Servants, but of his Anger kindled against that People, out of whose hands he has snatched his Jewels. But we see then that the dearest Servants of Christ are Subject to the arrests of Death. Yea, if we look into this very Congregation, we see it, one that often spoke in the Name of the Lord from this Pulpit, and (as I take it) the words which I am now upon, were the last which he Preached on in this Place; six months ago he Rested from all his La<g ref="char:EOLhyphen"/>bours. God made him very Serviceable, espe<g ref="char:EOLhyphen"/>cially in that part of the Country where for the greatest part of his Time, he had Served his Generation. <hi>Portsmouth</hi> oweth more than a lit<g ref="char:EOLhyphen"/>tle to his Memory. No longer since then the last Week, another Faithful Ambassador of Christ is called Home, who if he had been Li<g ref="char:EOLhyphen"/>ving,
+<pb n="37" facs="tcp:96315:19"/> and in Health, should have spoken in the Name of the Lord here this day. It is said in Prov. 10. 7. <hi>the memory of the Just is blessed,</hi> which words the Jews constantly apply to their Dead Deceased Friends that have been of eminent Use among them. The Seventy Greek Inter<g ref="char:EOLhyphen"/>preters express it by saying, The Memory of the Just is [<hi>met enkm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ione] with Praises.</hi> It is not my work this day so much to Praise the Dead, as to Instruct the Living: Nor shall I enlarge on his Character of whom you heard many things the last Lecture. Only I must say of him, as is here said of David, <hi>He Served his Generation according to the will of God.</hi> He was truly a very faithful Servant of God Considered as a Christian. He kept a strick Watch over the frame of his own heart every day. If he had hapned to speak but so much as one unprositable word, so tender was his Conscience as that he would se<g ref="char:EOLhyphen"/>verely reflect upon it, and mourn before the Lord in Secret, afore he slept that night. He was of a Peaceable temper; and would do any thing which he thought was not repugnant to the will of God, rather than make a Schi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m in a Church of Christ. Consider<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as a Mini<g ref="char:EOLhyphen"/>ster, he was Eminen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Faithful and Servicea<g ref="char:EOLhyphen"/>ble. God honoured him, in making him one of the <hi>Confessors</hi> of these last dayes. The Spirit of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Martyr</hi> was in him. He endured a sore
+<pb n="38" facs="tcp:96315:20"/> Imprisonment in <hi>Limrick</hi> in <hi>Ireland,</hi> for his bearing witness unto <hi>the present Truth,</hi> which the Lord would have his Servants in this Gene<g ref="char:EOLhyphen"/>ration to stand up for. And on that account (as our Fathers, &amp; we our selves, some of us did) he became Subject unto a Voluntary Exile into these goings down of the Sun. I have been informed, that the unhappy man, who was the chief Instrument and Instigator of his Imprison<g ref="char:EOLhyphen"/>ment in <hi>Limrick,</hi> was afterwards himself by the Papists made a Prisoner there, and that then he Cryed out in horror; <hi>This misery is come upon me, for my causing</hi> Mr. Baily <hi>to be cast into Prison.</hi> When his Ministry found great acceptance in the World, his Soul would tremble lest haply his <hi>Reward</hi> should be (like that of the Pharisees) only a <hi>Reputation</hi> amongst men in this World. His very heart was ingaged in desires and endeavours to promote the Con<g ref="char:EOLhyphen"/>version of Souls: And God made him Eminent<g ref="char:EOLhyphen"/>ly Successful therein. There are many who will bless God to Eternity, that ever they knew him: And at the day of Judgment (which the Lord hasten) we shall no doubt see verified in him that Scripture in <hi>Daniel,</hi> where it is said, <hi>They that turn many to Righteousness shall shine as the Stars for ever and ever.</hi>
+            </p>
+            <pb n="39" facs="tcp:96315:20"/>
+            <p>The Use which we should all make of such a Death, is, to Prepare to follow: And there<g ref="char:EOLhyphen"/>fore to make all the hast we can in finishing our work. If we serve our Generation accord<g ref="char:EOLhyphen"/>ing to the will of God; If we Glorify him on the Earth, when we have finished the work which he has given us to do, he will glorify us with Himself, and that not for one Gene<g ref="char:EOLhyphen"/>ration, but throughout the never ending dayes of ETERNITY.</p>
+            <closer>Tibi Domine et a Te.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
